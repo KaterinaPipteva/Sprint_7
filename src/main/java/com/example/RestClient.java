@@ -15,3 +15,8 @@ public class RestClient {
                 .contentType(ContentType.JSON);
     }
 }
+
+//Добавила пару строк чтобы отправить pull request
+
+
+
